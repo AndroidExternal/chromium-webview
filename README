@@ -1,0 +1,13 @@
+Google Webview
+==============
+
+These are the Google Webview prebuilts from the Play Store. See the commit
+log for what versions are included. The only architectures supported are
+arm arm64 and x86.
+
+No changes to your build system are needed to use these.
+
+------
+
+For questions about building WebView, please see
+https://groups.google.com/a/chromium.org/forum/#!forum/android-webview-dev
